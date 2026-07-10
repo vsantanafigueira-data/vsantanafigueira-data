@@ -8,24 +8,28 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 About Me
 
 🎓 Computer Science student at **UNIFESP**
 
 Building intelligent solutions by combining:
 
-- 🤖 **Artificial Intelligence**
-- 🧠 **Machine Learning**
-- 📊 **Data Analytics**
-- ⚙️ **Software Engineering**
+🤖 **Artificial Intelligence**  
+🧠 **Machine Learning**  
+📊 **Data Analytics**  
+⚙️ **Software Engineering**
 
 Currently focused on developing **AI-powered applications**, especially with **LLMs, RAG architectures, automation and data-driven systems**.
 
+</div>
+
 ---
 
-## 🧠 What I'm Building
-
 <div align="center">
+
+## 🧠 What I'm Building
 
 🤖 Artificial Intelligence  
 &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -43,9 +47,9 @@ Currently focused on developing **AI-powered applications**, especially with **L
 
 ---
 
-## ⚡ Tech Stack
-
 <div align="center">
+
+## ⚡ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,css,prisma,mongodb"/>
 
@@ -59,10 +63,16 @@ Currently focused on developing **AI-powered applications**, especially with **L
 
 ---
 
+<div align="center">
+
 ## 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
+</div>
+
+<div align="center">
+
+| 🚀 Project | 📄 Description |
+|:---:|:---:|
 | 🤖 AI RAG Assistant | Intelligent chatbot using Retrieval-Augmented Generation |
 | 📄 Resume Analyzer | AI-powered resume analysis system |
 | 📊 Marketing Dashboard | Interactive Power BI analytics dashboard |
@@ -70,11 +80,13 @@ Currently focused on developing **AI-powered applications**, especially with **L
 | 📈 Machine Learning Models | Classification and prediction models |
 | ⚙️ Python Automation | Automation tools and productivity scripts |
 
+</div>
+
 ---
 
-## 📫 Connect With Me
-
 <div align="center">
+
+## 📫 Connect With Me
 
 <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
 
