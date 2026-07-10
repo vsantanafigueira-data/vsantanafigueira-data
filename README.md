@@ -1,232 +1,180 @@
 <div align="center">
 
-# VIRTU
+# 👁️ VIRTU
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF2D2D&center=true&vCenter=true&width=900&lines=AI+%26+Data+Engineer;Machine+Learning+Developer;Building+Intelligent+Systems;Python+%7C+RAG+%7C+LLMs+%7C+Power+BI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1200&color=FF2D2D&center=true&vCenter=true&width=900&lines=AI+%26+Data+Engineer;Machine+Learning+Developer;Building+Intelligent+Systems;Python+%7C+RAG+%7C+LLMs+%7C+Power+BI" />
 
----
-
-> **SYSTEM STATUS**
+</div>
 
 ```text
-█████████████████████████████████████ 100%
+██████████████████████████████████████████████
 
-STATUS      : ONLINE
+SYSTEM STATUS
 
-ROLE        : AI & DATA ENGINEER
+STATUS      ▸ ONLINE
 
-FOCUS       : Machine Learning
+ROLE        ▸ AI & DATA ENGINEER
+
+SPECIALTY   ▸ Machine Learning
               Generative AI
               RAG Systems
               Data Analytics
 
-VERSION     : 1.0.0
+VERSION     ▸ 1.0.0
+
+██████████████████████████████████████████████
 ```
+
+---
+
+# 🚀 About Me
+
+Computer Science student passionate about Artificial Intelligence, Machine Learning and Data Engineering.
+
+I enjoy designing intelligent systems that combine software engineering, analytics and modern AI technologies to solve real-world problems.
+
+## Current Focus
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📚 Retrieval-Augmented Generation (RAG)
+- 💬 LLM Applications
+- 📊 Data Analytics
+- ⚙️ Automation
+- 🐳 Backend Engineering
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,sql,postgres,mysql,fastapi,nodejs,docker,git,linux,tensorflow,pytorch,vscode" />
 
 </div>
 
----
-
-# About Me
-
-Computer Science student passionate about Artificial Intelligence, Data Engineering and Machine Learning.
-
-I enjoy transforming data into intelligent solutions by combining software engineering, analytics and modern AI technologies.
-
-Current interests:
-
-- Artificial Intelligence
-- Machine Learning
-- Retrieval-Augmented Generation (RAG)
-- LLM Applications
-- Data Engineering
-- Business Intelligence
-- Automation
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,sql"/>
-
-</p>
-
----
-
-## AI & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
+### AI
 
 - OpenAI API
 - LangChain
 - LlamaIndex
-- RAG
+- Vector Databases
 - Prompt Engineering
 
----
+### Data
 
-## Data
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
-</p>
-
-- SQL
-- Power BI
 - Pandas
 - NumPy
+- Power BI
 - ETL
+- SQL
 
 ---
 
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,git,linux"/>
-
-</p>
-
----
-
-# Current Goals
+# 🎯 Current Goals
 
 - Build production-ready AI applications
-
 - Master LLM Engineering
-
 - Develop scalable RAG systems
-
 - Contribute to Open Source
-
 - Improve Software Architecture
 
 ---
 
-# Featured Projects
+# 📌 Featured Projects
 
-### AI Projects
-
-- RAG Assistant
-
-- AI Chatbot
-
-- Resume Analyzer
-
-- Multi-Agent System
-
----
-
-### Data Projects
-
-- Marketing Dashboard
-
-- Sales Analytics
-
-- Customer Segmentation
+| Project | Description |
+|---------|-------------|
+| 🤖 AI RAG Assistant | Chatbot with Retrieval-Augmented Generation |
+| 📄 Resume Analyzer | Resume analysis powered by AI |
+| 📊 Marketing Dashboard | Power BI analytics dashboard |
+| 💬 AI Chatbot | Intelligent conversational assistant |
+| 📈 Machine Learning Models | Classification & Prediction |
+| ⚡ Automation | Python automation projects |
 
 ---
 
-### Machine Learning
-
-- Price Prediction
-
-- Classification Models
-
-- Recommendation Systems
-
----
-
-# GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vsantanafigueira-data&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsantanafigueira-data&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=vsantanafigueira-data&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Activity Graph
+# 📊 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=FF2D2D&line=FF0000&point=FFFFFF&area=true&area_color=8B0000&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vsantanafigueira-data&bg_color=0D1117&color=FF2D2D&line=FF0000&point=FFFFFF&area=true&area_color=8B0000"/>
 
 </div>
 
 ---
 
-# Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vsantanafigueira-data&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# Visitor Counter
+# 🌐 Visitor Counter
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=vsantanafigueira-data&style=flat-square&color=red"/>
 
 </div>
 
 ---
 
-# Connect With Me
+# 📫 Connect With Me
 
-<p>
+<div align="center">
 
 <a href="https://linkedin.com/in/SEU_LINKEDIN">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:SEU_EMAIL">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
 ```text
-██████████████████████████████████████████████████
+████████████████████████████████████████████
 
-"Turning data into intelligent systems."
+Code.
+Learn.
+Build.
+Repeat.
 
-██████████████████████████████████████████████████
+████████████████████████████████████████████
 ```
+
+*"Turning data into intelligent systems."*
 
 </div>
