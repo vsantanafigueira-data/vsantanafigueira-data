@@ -67,43 +67,41 @@ Automation
 
 ## Featured Projects
 
-<table align="center">
+</div>
 
+<div align="center">
+
+| Project | Description |
+|:---:|:---:|
+| AI RAG Assistant | Intelligent chatbot using Retrieval-Augmented Generation |
+| Resume Analyzer | AI-powered resume analysis system |
+| Marketing Dashboard | Interactive Power BI analytics dashboard |
+| AI Chatbot | Conversational AI assistant using LLMs |
+| Machine Learning Models | Classification and prediction models |
+| Python Automation | Automation tools and productivity scripts |
+
+</div>
+
+---
+
+<div align="center">
+
+## Connect With Me
+
+<table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-</tr>
+<td>
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
 
-<tr>
-<td align="center">AI RAG Assistant</td>
-<td align="center">Intelligent chatbot using Retrieval-Augmented Generation</td>
+<td>
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</td>
 </tr>
-
-<tr>
-<td align="center">Resume Analyzer</td>
-<td align="center">AI-powered resume analysis system</td>
-</tr>
-
-<tr>
-<td align="center">Marketing Dashboard</td>
-<td align="center">Interactive Power BI analytics dashboard</td>
-</tr>
-
-<tr>
-<td align="center">AI Chatbot</td>
-<td align="center">Conversational AI assistant using LLMs</td>
-</tr>
-
-<tr>
-<td align="center">Machine Learning Models</td>
-<td align="center">Classification and prediction models</td>
-</tr>
-
-<tr>
-<td align="center">Python Automation</td>
-<td align="center">Automation tools and productivity scripts</td>
-</tr>
-
 </table>
 
 </div>
