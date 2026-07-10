@@ -2,7 +2,7 @@
 
 # 👁️ VIRTU
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=FF2D2D&center=true&vCenter=true&width=900&lines=AI+%26+Data+Engineer;Machine+Learning+Developer;Building+Intelligent+Systems;Python+%7C+RAG+%7C+LLMs+%7C+Power+BI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FF2D2D&center=true&vCenter=true&width=900&lines=AI+%26+Data+Engineer;Machine+Learning+Developer;Building+Intelligent+Systems;Python+%7C+RAG+%7C+LLMs+%7C+Power+BI" />
 
 </div>
 
