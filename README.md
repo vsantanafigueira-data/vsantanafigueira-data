@@ -67,6 +67,10 @@ Automation
 
 ## Featured Projects
 
+</div>
+
+<div align="center">
+
 | Project | Description |
 |:---:|:---:|
 | AI RAG Assistant | Intelligent chatbot using Retrieval-Augmented Generation |
@@ -84,14 +88,20 @@ Automation
 
 ## Connect With Me
 
+<table>
+<tr>
+<td>
 <a href="https://linkedin.com/in/SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</td>
 
-&nbsp;&nbsp;
-
+<td>
 <a href="mailto:SEU_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</td>
+</tr>
+</table>
 
 </div>
